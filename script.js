@@ -1,4 +1,8 @@
-//your JS code here. If required.
 function AccioJob() {
-	alert('AccioJob');
+  alert('AccioJob');
 }
+
+// Calling the function
+AccioJob();  
+
+
